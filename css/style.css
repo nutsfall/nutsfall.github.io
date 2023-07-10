@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', serif;
-  font-size: 32px;
+  font-size: 50px;
 
   display: flex;
   justify-content: center;
@@ -8,7 +8,7 @@ body {
 }
 
 h1.name {
-  font-size: 48px;
+  font-size: 96px;
 }
 
 div.brands {
@@ -16,5 +16,5 @@ div.brands {
 }
 
 a.brand_icon {
-  margin-right: 5px;
+  margin-right: 50px;
 }
