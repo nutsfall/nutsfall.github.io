@@ -2,13 +2,23 @@ body {
   font-family: 'Poppins', serif;
   font-size: 50px;
 
+  background-color: #00205B;
+
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+body, a:visited, a:link, a:active {
+    color: white;
+}
+
 h1.name {
   font-size: 96px;
+}
+
+div.tagline {
+    font-size: 32px;
 }
 
 div.brands {
