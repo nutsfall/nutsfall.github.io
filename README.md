@@ -1,3 +1,2 @@
-# qli.jp
+# nutsfall me
 
-- Things on a planet / Blog page is http://qli.jp/
