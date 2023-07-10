@@ -9,6 +9,7 @@ main {
     display: grid;
     place-content: center;
     place-items: center;
+    min-height: 100vh;
 }
 
 body, a:visited, a:link, a:active {
