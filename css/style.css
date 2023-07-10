@@ -1,4 +1,12 @@
 body {
-    font-family: 'Poppins', serif;
-    font-size: 48px;
-  }
+  font-family: 'Poppins', serif;
+  font-size: 32px;
+}
+
+h1.name {
+  font-size: 48px;
+}
+
+a.brand_icon {
+  margin-right: 5px;
+}
