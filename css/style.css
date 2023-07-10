@@ -1,10 +1,18 @@
 body {
   font-family: 'Poppins', serif;
   font-size: 32px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1.name {
   font-size: 48px;
+}
+
+div.brands {
+    text-align: center;
 }
 
 a.brand_icon {
