@@ -3,10 +3,12 @@ body {
   font-size: 50px;
 
   background-color: #00205B;
+}
 
-  display: flex;
-  justify-content: center;
-  align-items: center;
+main {
+    display: grid;
+    place-content: center;
+    place-items: center;
 }
 
 body, a:visited, a:link, a:active {
@@ -19,11 +21,9 @@ div.name {
 
 div.tagline {
     font-size: 32px;
-    text-align: center;
 }
 
 div.brands {
-    text-align: center;
 }
 
 a.brand_icon {
