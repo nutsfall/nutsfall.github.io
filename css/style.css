@@ -28,5 +28,6 @@ div.brands {
 }
 
 a.brand_icon {
-  margin-right: 50px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
