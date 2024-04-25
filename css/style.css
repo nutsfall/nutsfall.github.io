@@ -30,4 +30,6 @@ div.brands {
 a.brand_icon {
   margin-right: 25px;
   margin-left: 25px;
+  text-decoration-line: none;
 }
+
